@@ -1,0 +1,23 @@
+{
+  "name": "ping_pong",
+  "version": "1.0.0",
+  "description": "Ping-Pong Game with basic HTML, CSS and Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesardmn/ping_pong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesardmn/ping_pong/issues"
+  },
+  "homepage": "https://github.com/cesardmn/ping_pong#readme",
+  "dependencies": {
+    "prettier": "^2.8.4"
+  }
+}
